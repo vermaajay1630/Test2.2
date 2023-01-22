@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581937464684",
+    "project_id": "test2-2-bdf1f",
+    "storage_bucket": "test2-2-bdf1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581937464684:android:6893abbcd7dc93d4bc5f49",
+        "android_client_info": {
+          "package_name": "com.example.test22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581937464684-qeotalk61v1esok2bdlin2hef8q2j1gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZBGf8aYMLRan7fsvELwiGWkCyZgMDHBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581937464684-qeotalk61v1esok2bdlin2hef8q2j1gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
